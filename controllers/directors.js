@@ -1,4 +1,4 @@
-const express = require('exlpress');
+const express = require('express');
 
 function create(req, res, next) {
     res.send('Directors create');
